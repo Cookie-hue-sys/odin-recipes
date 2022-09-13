@@ -1,0 +1,21 @@
+/*index.html css file*/
+
+div{
+    background-color:rgb(223, 196, 200);
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h1{
+    text-align: center;
+    font-size:36px;
+    
+    
+}
+.recipe-list
+{
+font-size: 20px;
+}
+.chef{
+   margin-left: 45px; /*increased the space between the chef image box and what sits next to it only on the left side*/
+     }
